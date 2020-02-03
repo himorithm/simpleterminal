@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Simple Terminal
+GenericName=Terminal
+Comment=Suckless terminal emulator for X
+Icon=utilities-terminal
+Exec=st
+Categories=System;TerminalEmulator
+Encoding=UTF-8
+Keywords=shell;prompt;command;commandline;cmd;terminal;
