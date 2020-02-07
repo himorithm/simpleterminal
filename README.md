@@ -26,6 +26,11 @@ sudo make clean install
 * Mouse : XC_LEFT_ptr
 * Cursor: BLOCK
 
+## Colors
+- ![Background Color](https://placehold.it/15/282a36/000000?text=+) `Background Color`
+- ![Foreground Color](https://placehold.it/15/f8f8f2/000000?text=+) `Foreground Color`
+
+
 ## Related Links
 
 [ST Home Page](https://st.suckless.org/)
@@ -46,6 +51,7 @@ patch -p1 < path/to/patch.diff
 rm config.h
 sudo make clean install
 ```
+
 Tested on ArchLinux using KDE
 
 Regards,
